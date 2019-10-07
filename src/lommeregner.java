@@ -14,7 +14,7 @@ public class Main {
         String operator = input.nextLine();
         operator = input.nextLine();
         System.out.println(operator);
-        if (operator.equals("+")){
+        if (operator.equals("*")){
             System.out.println("Resultatet er " + (a + b));
         }
         else if (operator.equals("-"))
